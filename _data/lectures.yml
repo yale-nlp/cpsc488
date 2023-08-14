@@ -76,8 +76,8 @@
   readings:
     - Language Models are Few-Shot Learners (GPT3; 2020) <a href="https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf" target="_blank">[link]</a>
     - PaLM - Scaling Language Modeling with Pathways (2022) <a href="https://arxiv.org/pdf/2204.02311.pdf">[link]</a>
-  slides: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_6_gpt3.pdf
-  slides2: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_6_palm.pdf
+  # slides: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_6_gpt3.pdf
+  # slides2: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_6_palm.pdf
 
 - date: Tue 09/26/23
   lecturer:
