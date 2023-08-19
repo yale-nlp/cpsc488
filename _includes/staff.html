@@ -8,6 +8,12 @@
       <li><span>Email:</span> <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email
           }}</a></li>
       <li><span>Office hours:</span> {{ instructor.office-hours }}</li>
+      {% if instructor.appointment-url %}
+      <li><span>Appointment:</span> <a href="{{ instructor.appointment-url }}" target="_blank"> Select time </a></li>
+      {% endif %}
+      {% if instructor.location %}
+      <li><span>Location:</span> {{ instructor.location }} </li>
+      {% endif %}
     </ul>
   </div>
   {% endfor %}
@@ -23,6 +29,12 @@
       <li><span>Email:</span> <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email
           }}</a></li>
       <li><span>Office hours:</span> {{ instructor.office-hours }}</li>
+      {% if instructor.appointment-url %}
+      <li><span>Appointment:</span> <a href="{{ instructor.appointment-url }}" target="_blank"> Select time </a></li>
+      {% endif %}
+      {% if instructor.location %}
+      <li><span>Location:</span> {{ instructor.location }} </li>
+      {% endif %}
     </ul>
   </div>
   {% endfor %}
@@ -39,6 +51,9 @@
       <li><span>Email:</span> <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email
           }}</a></li>
       <li><span>Office hours:</span> {{ instructor.office-hours }}</li>
+      {% if instructor.location %}
+      <li><span>Location:</span> {{ instructor.location }} </li>
+      {% endif %}
       <!-- <li><span>Zoom:</span> <a href="{{ instructor.zoom }}" target="_blank">Link</a></li> -->
     </ul>
   </div>

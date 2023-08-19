@@ -2,14 +2,17 @@ Instructors:
   - name: Arman Cohan
     email: arman.cohan@yale.edu
     url: https://armancohan.com
-    office-hours: Tue 4:00 - 5:00 PM (After class)
+    office-hours: Tue 10:45 - 11:45 AM (by appointment)
+    appointment-url: https://calendly.com/arman-cohan/office-hours
+    location: 17 HH 3rd Floor, Room 326
     image: staff/arman.jpg
 
 TAs:
   - name: Yixin Liu
     email: yixin.liu@yale.edu
     url: https://yixinl7.github.io/
-    office-hours: TBD
+    office-hours: Thu 4-5 PM
+    location: 17 HH 3rd Floor, common area
     image: staff/yixin.jpg
 
   - name: Simeng Han
@@ -21,5 +24,6 @@ TAs:
   - name: Chen Liu
     email: chen.liu.cl2482@yale.edu
     url: https://www.chenliu1996.com
-    office-hours: TBD
+    office-hours: Wed 3-4 PM
+    location: 17 HH 3rd Floor, common area
     image: staff/chenl.jpg
