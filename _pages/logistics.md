@@ -63,7 +63,7 @@ For class projects we expect graduate students to work on a research problem (Th
 Students must complete a final research project on a topic of their choice related to the class. The students can optionally team up with other students but the team size is limited to 2 students. (In rare cases and depending on the scope of the proposed project, a group of size 3 may be also allowed.) 
 
 -   **5%**: proposal
-    -   Students should submit a 1 page proposal for their project by week 5-6. The proposal should state and motivate the problem, and position the proposed project within related work. The project proposal should also include a brief description of the approach as well as the experimental plan (e.g., baselines, datasets, etc) to validate the effectiveness of the approach. Here are some ideas on types of projects.:
+    -   Students should submit a 1-2 page proposal for their project. The proposal should state and motivate the problem, and position the proposed project within related work. The project proposal should also include a brief description of the approach as well as the experimental plan (e.g., baselines, datasets, etc) to validate the effectiveness of the approach. Here are some ideas on types of projects.:
     -   For undergraduate students the project could be reimplementation of an exsiting method,  a new user-facing application that uses foundation models for a new problem, a comprehensive survey into a subtopic of interest, deeper investigation of a paper and providing further insights by conducting additional experiments, or novel reseach. 
     -   For graduate students the project should include a component of novelty. E.g., it could propose a novel research, a novel investigation of existing methods, an extension of prior work for a specific purpose, or a new application.
 
@@ -74,9 +74,7 @@ Students must complete a final research project on a topic of their choice relat
     -   Your project code should be clean, readable, with clear running instructions, and the results should be fully reproducible. We will provide a reproducibility checklist that should be returned.
 
 -   **20%**: final project report
-    -   5-6 page conference format report (e.g., [ACL/EMNLP](https://www.overleaf.com/latex/templates/acl-rolling-review-template/jxbhdzhmcpdm)) detailing the project motivation, related work, proposed approach, results, and discussion. You can think of this as a conference paper. Negative results will not be penalized, but should be accompanied with detailed analysis of why the proposed methods didn't work and provide some additional insights into the problem. 
-    -   Undergraduate project reports can be up to 5 pages 
-    -   Graduate students project reports can be up to 6 pages
+    -   4-6 (no more than 6 pages) page conference format report (e.g., [NeurIPS](https://www.overleaf.com/latex/templates/neurips-2023/vstgtvjwgdng)) detailing the project motivation, related work, proposed approach, results, and discussion. You can think of this as a conference paper. Negative results will not be penalized, but should be accompanied with detailed analysis of why the proposed methods didn't work and provide some additional insights into the problem. 
     -   References and appendix won't count towards the page limit
 
 
