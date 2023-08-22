@@ -8,12 +8,13 @@ news: true
 ---
 
 ​​Foundation models are a recent class of AI models that are large-scale in terms of number of parameters and are trained on broad data (generally using self-supervision at scale). These models have demonstrated exceptional capabilities in natural language processing, computer vision, and other tasks. Examples of Foundation Models are GPT-4, ChatGPT, GPT-3, Dall-E, Stable Diffusion, etc.
-In this course, we discuss building blocks of foundation models, including transformers, self-supervised learning, transfer learning, learning from human feedback, power of scale, large language models, in-context learning, chain-of-thought prompting, parameter-efficient fine-tuning, vision transformers, diffusion models, generative modeling, safety, ethical and societal considerations, their impact, etc. While the course primarily focuses on advances on large language models, we will also cover foundation models in computer vision, as well as multi-modal foundation models. 
+In this course, we discuss building blocks of foundation models, including transformers, self-supervised learning, transfer learning, learning from human feedback, power of scale, large language models, in-context learning, chain-of-thought prompting, parameter-efficient fine-tuning, vision transformers, diffusion models, generative modeling, safety, ethical and societal considerations, their impact, etc. While the course primarily focuses on advances on large language models, we will also cover foundation models in computer vision, as well as multi-modal foundation models.
 
+**Prerequisites:**
 
-**Prerequisite Knowledge:**
-
-One of CPSC 480 OR CPSC 477, or permission of the instructor. 
+CPSC 370 (Artificial Intelligence). 
+Students should feel comfortable with basic concepts in machine learning.
+Having taken one of CPSC 480 OR CPSC 477 is a plus, but not required.
 
 **Resources** 
 

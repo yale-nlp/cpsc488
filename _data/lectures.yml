@@ -58,7 +58,6 @@
     - Arman
   title:
     - Scaling Laws for Langauge Models
-    - Tips on choosing a project [Arman]
   notes:
   readings:
     - Scaling Laws for Neural Language Models (2020) <a href="https://arxiv.org/pdf/2001.08361.pdf " target="_blank">[link]</a>
@@ -81,22 +80,19 @@
 
 - date: Tue 09/26/23
   lecturer:
-    - Arman
+    - TBA
   title:
-    - Prompting and Few-shot learning
-  readings:
-    - It’s Not Just Size That Matters- Small Language Models Are Also Few-Shot Learners (2020) <a href="https://arxiv.org/pdf/2009.07118.pdf" traget="_blank">[link]</a>
-    - Making Pre-trained Language Models Better Few-shot Learners (2021) <a href="https://arxiv.org/pdf/2012.15723.pdf" traget="_blank">[link]</a>
+    - Guest lecture 1
+  readings: TBA
   # question-form: https://forms.gle/tPn1iGLN6Cp88TXo7
   # slides: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_7_pet.pdf
   # slides2: https://docs.google.com/presentation/d/1_VGuTUS-JvmOTRwoXNPLUA3ykkBfJWU12UG27zUMGls/edit
 
 - date: Thu 09/28/23
   lecturer:
-    - Arman
+    - TBA
   title:
-    - Prompting and ICL
-    - Why ICL works
+    - Guest lecture 2
   readings:
     - Rethinking the Role of Demonstrations- What Makes In-Context Learning Work? (2022) <a href="https://arxiv.org/pdf/2202.12837.pdf" traget="_blank">[link]</a>
     - Data Distributional Properties Drive Emergent In-Context Learning in Transformers (2022) <a href="https://arxiv.org/pdf/2205.05055.pdf" traget="_blank">[link]</a>
