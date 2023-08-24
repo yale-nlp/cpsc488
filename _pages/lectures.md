@@ -27,7 +27,7 @@ title: Schedule (Draft - subject to change)
     {% if lecture.recitation != blank %} 
     {% assign recitation_count = recitation_count | plus: 1 %}
     {%endif%}
-    {% if lecture.title contains 'No class' or lecture.title contains 'cancelled' or lecture.title contains 'Buffer' %}
+    {% if lecture.title contains 'No class' or lecture.title contains 'cancelled' or lecture.title contains 'Buffer' or lecture.title contains 'Midterm' %}
         {% assign skip_classes = skip_classes | plus: 1 %}
         <td colspan="4" align="center">{{ lecture.title }}<p align="right">{{ lecture.logistics }}</p></td>
     {% elsif lecture.quiz != blank %}
@@ -52,15 +52,14 @@ title: Schedule (Draft - subject to change)
         {% if lecture.recitation %}
             <br />{{ lecture.recitation }}<br />
         {% endif %}
-        {% if lecture.lecturer %}
-        Presenter(s):
+        <!-- {% if lecture.lecturer %} -->
+        <!-- Presenter(s):
         <ul class="no-bullets">
             {% for lecturer in lecture.lecturer %}
                  <li style="color:#397DF6;font-weight:bold">{{ lecturer }}</li>
             {% endfor %}                
         </ul>            
-        <!-- <p style="color:green;">{{ lecture.lecturer }}</p><br /> -->
-        {% endif %}
+        {% endif %} -->
         {% if lecture.panelists %}
         Panel:
         {% for lecturer in lecture.lecturer %}
