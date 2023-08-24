@@ -4,7 +4,7 @@
   title:
     - Course introduction
     - Logistics
-    - Transformers
+    - Transformers - high level overview
   slides:
   readings:
     - Attention is all you need (2017) <a href="https://arxiv.org/abs/1706.03762" target="_blank">[link]</a>
@@ -14,91 +14,102 @@
   lecturer:
     - Arman
   title:
-    - Transfer learning
-    - Pre-training
-    - Pre-trained transformers
+    - Optimization, backpropagation, and training
   slides:
   # slides2:
   logistics:
   readings:
-    - ELMo, Deep Contextualized Representations <a href="https://arxiv.org/pdf/1802.05365.pdf">[link]</a>
-    - ULMFit, Universal Language Model Fine-tuning for Text Classification <a href="https://arxiv.org/pdf/1801.06146.pdf">[link]</a>
-    - BERT, Pre-training of Deep Bidirectional Transformers for Language Understanding <a href="https://arxiv.org/pdf/1810.04805.pdf">[link]</a>
-  optional:
-    - <p> RoBERTa, A Robustly Optimized BERT Pretraining Approach <a href="https://arxiv.org/pdf/1907.11692.pdf">[link]</a> </p>
+    - Deep Feedforward Networks. Ian Goodfellow, Yoshua Bengio, & Aaron Courville (2016). Deep Learning, Chapter 6.5. <a href="https://www.deeplearningbook.org/contents/mlp.html" target="_blank">[link]</a>
+    - An overview of gradient descent optimization algorithms <a href="https://arxiv.org/pdf/1609.04747.pdf" target="_blank">[link]</a>
+    - A Gentle Introduction to Torch Autograd <a href="https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html">[link]</a>
+    - Autograd Mechanics <a href="https://pytorch.org/docs/stable/notes/autograd.html">[link]</a>
 
 - date: Thu 09/07/23
   lecturer:
     - Arman
-  # question-form: https://forms.gle/EBNHeejzviX5pKvz5
   title:
-    - Transfer learning
-    - Pre-training
+    - Word embeddings
+    - Tokenization
   readings:
-    - Language Models are Unsupervised Multitask Learners (GPT-2) <a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf " target="_blank">[link]</a>
-    - Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (T5) <a href="https://arxiv.org/pdf/1910.10683.pdf">[link]</a>
-  optional:
-    - BART, Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension <a href="https://arxiv.org/pdf/1910.13461.pdf">[link]</a>
-    - ELECTRA, Pre-training Text Encoders as Discriminators Rather Than Generators <a href="https://arxiv.org/abs/2003.10555">[link]</a>
+    - Distributed Representations of Words and Phrases and their Compositionality (2013) <a href="https://arxiv.org/pdf/1310.4546.pdf" target="_blank">[link]</a>
+    - GloVe- Global Vectors for Word Representation (2014) <a href="https://nlp.stanford.edu/pubs/glove.pdf" target="_blank">[link]</a>
+    - BPE - Neural Machine Translation of Rare Words with Subword Units (2016) <a href="https://arxiv.org/pdf/1508.07909.pdf" target="_blank">[link]</a>
+    - SentencePiece- A simple and language independent subword tokenizer and detokenizer for Neural Text Processing (2018) <a href="https://arxiv.org/pdf/1808.06226.pdf" target="_blank">[link]</a>
+
   logistics:
 
 - date: Tue 09/12/23
   lecturer:
     - Arman
-  title: Model Architecture and Training Objectives
-  # slides: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_4_ul2.pdf
-  # question-form: https://forms.gle/wqjDZ8cj3Buuu6yt8
+  title:
+    - Transformers
+    - Positional Information
+    - Implementation details
   readings:
-    - UL2- Unifying Language Learning Paradigms (2022) <a href="https://arxiv.org/pdf/2205.05131.pdf">[link]</a>
-    - What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization? (2022) <a href="https://arxiv.org/pdf/2204.05832.pdf">[link]</a>
+    - Attention is all you need (2017) <a href="https://arxiv.org/abs/1706.03762" target="_blank">[link]</a>
+    - The Annotated Transformer <a href="https://nlp.seas.harvard.edu/2018/04/03/attention.html" target="_blank">[link]</a>
   logistics:
 
 - date: Thu 09/14/23
   lecturer:
     - Arman
   title:
-    - Scaling Laws for Langauge Models
+    - Language Modeling
+    - Pretraining
+    - Transfer learning
   notes:
   readings:
-    - Scaling Laws for Neural Language Models (2020) <a href="https://arxiv.org/pdf/2001.08361.pdf " target="_blank">[link]</a>
-    - Training Compute-Optimal Large Language Models (2022) <a href="https://arxiv.org/pdf/2203.15556.pdf" target="blank">[link]</a>
-  logistics: <a href="https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_5_projects.pdf"> [Tips on choosing projects]</a> <br/><br/> <a href="https://docs.google.com/document/d/1JBCkDdlywQcQtxz6fHg1p2ev0GgLbmHbcAg4NRIu-Mc/edit">[Projects Doc]</a>
+    - ELMo, Deep Contextualized Representations <a href="https://arxiv.org/pdf/1802.05365.pdf">[link]</a>
+    - ULMFit, Universal Language Model Fine-tuning for Text Classification <a href="https://arxiv.org/pdf/1801.06146.pdf">[link]</a>
+    - BERT, Pre-training of Deep Bidirectional Transformers for Language Understanding <a href="https://arxiv.org/pdf/1810.04805.pdf">[link]</a>
+    - UL2- Unifying Language Learning Paradigms (2022) <a href="https://arxiv.org/pdf/2205.05131.pdf">[link]</a>
+    - What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization? (2022) <a href="https://arxiv.org/pdf/2204.05832.pdf">[link]</a>
   optional:
     - Scale Efficiently - Insights from Pre-training and Fine-tuning Transformers (2021) <a href="https://arxiv.org/pdf/2109.10686.pdf">[link]</a>
+    - Training Compute-Optimal Large Language Models (2022) <a href="https://arxiv.org/pdf/2203.15556.pdf" target="blank">[link]</a>
 
 - date: Th 09/19/23
   lecturer:
     - Arman
   title:
-    - LLMs
-    - Power of scale
+    - Transfer Learning (continued)
+    - Transformer efficiency
   readings:
-    - Language Models are Few-Shot Learners (GPT3; 2020) <a href="https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf" target="_blank">[link]</a>
-    - PaLM - Scaling Language Modeling with Pathways (2022) <a href="https://arxiv.org/pdf/2204.02311.pdf">[link]</a>
-  # slides: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_6_gpt3.pdf
-  # slides2: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_6_palm.pdf
+    - BART, Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension <a href="https://arxiv.org/pdf/1910.13461.pdf">[link]</a>
+    - ELECTRA, Pre-training Text Encoders as Discriminators Rather Than Generators <a href="https://arxiv.org/abs/2003.10555">[link]</a>
+
+- date: Th 09/21/23
+  lecturer:
+    - Arman
+  title:
+    - Transformer efficiency
+    - Hardware aware implementation
+  readings:
+    - Flash attention - Fast and memory-efficient exact attention with IO-awareness (2022) <a href="https://arxiv.org/pdf/2205.14135.pdf">[link]</a>
+    - Flash attention v2 - Faster Attention with Better Parallelism and Work Partitioning
 
 - date: Tue 09/26/23
   lecturer:
-    - TBA
+    - Arman
   title:
-    - Guest lecture 1
-  readings: TBA
-  # question-form: https://forms.gle/tPn1iGLN6Cp88TXo7
-  # slides: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_7_pet.pdf
-  # slides2: https://docs.google.com/presentation/d/1_VGuTUS-JvmOTRwoXNPLUA3ykkBfJWU12UG27zUMGls/edit
+    - Scale
+    - GPT3
+    - Emergeing properties
+  readings:
+    - Scaling Laws for Neural Language Models <a href="https://arxiv.org/pdf/2001.08361.pdf" target="_blank">[link]</a>
+    - Training Compute-Optimal Large Language Models <a href="https://arxiv.org/pdf/2203.15556.pdf" target="_blank">[link]</a>
+    - Chain of Thought Prompting Elicits Reasoning in Large Language Models <a href="https://arxiv.org/pdf/2201.11903.pdf" target="_blank">[link]</a>
 
 - date: Thu 09/28/23
   lecturer:
     - TBA
   title:
-    - Guest lecture 2
+    - Parameter efficient fine tuning
   readings:
-    - Rethinking the Role of Demonstrations- What Makes In-Context Learning Work? (2022) <a href="https://arxiv.org/pdf/2202.12837.pdf" traget="_blank">[link]</a>
-    - Data Distributional Properties Drive Emergent In-Context Learning in Transformers (2022) <a href="https://arxiv.org/pdf/2205.05055.pdf" traget="_blank">[link]</a>
-  optional:
-    - What learning algorithm is in-context learning? Investigations with linear models (2022) <a href="https://arxiv.org/pdf/2211.15661.pdf" target="_blank">[link]</a>
-    - Transformers as Algorithms- Generalization and Stability in In-context Learning (2023) <a href="https://arxiv.org/pdf/2301.07067.pdf" target="_blank">[link]</a>
+    - Parameter-Efficient Transfer Learning for NLP (2019) <a href="https://arxiv.org/pdf/1902.00751.pdf" target="_blank">[link]</a>
+    - Prefix-Tuning- Optimizing Continuous Prompts for Generation (2021) <a href="https://arxiv.org/pdf/2101.00190.pdf" target="_blank">[link]</a>
+    - Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning (2022) <a href="https://arxiv.org/pdf/2205.05638.pdf" target="_blank">[link]</a>
+    - LoRA- Low-Rank Adaptation of Large Language Models <a href="https://arxiv.org/pdf/2106.09685.pdf" target="_blank">[link]</a>
 
 - date: Tue 10/03/23
   lecturer:
@@ -108,16 +119,19 @@
   readings:
     - Training language models to follow instructions with human feedback (2022) <a href="https://arxiv.org/pdf/2203.02155.pdf" traget="_blank">[link]</a>
     - Scaling Instruction-Finetuned Language Models (2022) <a href="https://arxiv.org/pdf/2210.11416.pdf" traget="_blank">[link]</a>
-  # question-form: https://forms.gle/pSixeeAx6GKCsCGBA
 
 - date: Thu 10/05/23
   lecturer:
     - Arman
   title:
-    - Parameter efficient fine-tuning
+    - Adaptation
+    - Reinforcement Learning for language models fine-tuning
   readings:
-    - Towards a Unified View of Parameter-Efficient Transfer Learning (2021) <a href="https://arxiv.org/pdf/2110.04366.pdf" traget="_blank">[link]</a>
-    - Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning (2022) <a href="https://arxiv.org/pdf/2205.05638.pdf" traget="_blank">[link]</a>
+    - Fine-Tuning Language Models from Human Preferences (2019) <a href="https://arxiv.org/abs/1909.08593" traget="_blank">[link]</a>
+    - Learning to Summarize with Human Feedback (2020) <a href="https://arxiv.org/pdf/2009.01325.pdf" traget="_blank">[link]</a>
+    - InstructGPT - Fine-Tuning Language Models from Human Instructions (2021) <a href="https://arxiv.org/pdf/2109.01196.pdf" traget="_blank">[link]</a>
+    - Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback (2022) <a href="https://arxiv.org/pdf/2204.05862.pdf" traget="_blank">[link]</a>
+    - Direct Preference Optimization- Your Language Model is Secretly a Reward Model (2023) <a href="https://arxiv.org/pdf/2305.18290.pdf" traget="_blank">[link]</a>
   optional:
     - Parameter-Efficient Transfer Learning for NLP (2019) <a href="https://arxiv.org/pdf/1902.00751.pdf" traget="_blank">[link]</a>
     - Prefix-Tuning- Optimizing Continuous Prompts for Generation (2021) <a href="https://arxiv.org/pdf/2101.00190.pdf" traget="_blank">[link]</a>
@@ -126,36 +140,27 @@
   lecturer:
     - Arman
   title:
-    - Chain of thought reasoning
-    - Self-consistency
-    - Emergence
-  readings:
-    - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2022) <a href="https://arxiv.org/pdf/2201.11903.pdf" traget="_blank">[link]</a>
-    - Emergent Abilities of Large Language Models (2022) <a href="https://openreview.net/pdf?id=yzkSU5zdwD" traget="_blank">[link]</a>
+    - Guest lecture 1
 
 - date: Thu 10/12/23
   lecturer:
     - Arman
   title:
-    - Efficient transformers
+    - Mixture of experts
   readings:
-    - Longformer- The Long-Document Transformer (2020) <a href="https://arxiv.org/pdf/2004.05150.pdf" traget="_blank">[link]</a>
-    - Big Bird- Transformers for Longer Sequences (2020) <a href="https://arxiv.org/pdf/2007.14062.pdf" traget="_blank">[link]</a>
+    - Outrageously Large Neural Networks- The Sparsely-Gated Mixture-of-Experts Layer (2017) <a href="https://arxiv.org/pdf/1701.06538.pdf" traget="_blank">[link]</a>
+    - Switch Transformers- Scaling to Trillion Parameter Models (2021) <a href="https://arxiv.org/pdf/2101.03961.pdf" traget="_blank">[link]</a>
+    - Sparse Upcycling- Training Mixture-of-Experts from Dense Checkpoints (2022) <a href="https://arxiv.org/pdf/2212.05055.pdf" traget="_blank">[link]</a>
+
   optional:
     - Efficient Transformers- A Survey <a href="https://arxiv.org/pdf/2009.06732.pdf" target="_blank">[link] </a>
 
 - date: Tue 10/17/23
-  lecturer:
-    - Arman
   title:
-    - Efficient transformers
+    - Tool augmented language models
+    - Modular networks
   readings:
-    - Efficiently Modeling Long Sequences with Structured State Spaces (2021) <a href="https://arxiv.org/pdf/2111.00396.pdf" traget="_blank">[link]</a>
-    - Simplifying S4 <a href="https://hazyresearch.stanford.edu/blog/2022-06-11-simplifying-s4" target="_blank">[link]</a>
-  optional:
-    - On the Parameterization and Initialization of Diagonal State Space Models (2022) <a href="https://arxiv.org/pdf/2206.11893.pdf" traget="_blank">[link]</a>
-    - Hungry Hungry Hippos- Towards Language Modeling with State Space Models (2022) <a href="https://arxiv.org/pdf/2212.14052.pdf" traget="_blank">[link]</a>
-    - FlashAttention- Fast and Memory-Efficient Exact Attention with IO-Awareness (2022) <a href="https://arxiv.org/pdf/2205.14135.pdf" traget="_blank">[link]</a>
+    - Toolformer - A Tool-Augmented Language Model (2022) <a href="https://arxiv.org/pdf/2209.01696.pdf" traget="_blank">[link]</a>
 
 - date: 10/17/23 - 10/23/23
   lecturer:
@@ -167,16 +172,12 @@
   lecturer:
     - Arman
   title:
-    - Memory
+    - Evaluation
   readings:
-    - Memorizing Transformers (2022) <a href="https://arxiv.org/pdf/2203.08913.pdf" traget="_blank">[link]</a>
-  optional:
-    - Training Language Models with Memory Augmentation (2022) <a href="https://arxiv.org/pdf/2205.12674.pdf" traget="_blank">[link]</a>
-  logistics:
-    - <span class="deadline">Project proposals due on 3/4</span>
-  question-form: https://forms.gle/6GUGN4ABLqAMQoWh9
+    - Holistic Evaluation of Large Language Models for Code Generation (2022) <a href="https://arxiv.org/pdf/2211.09110.pdf" traget="_blank">[link]</a>
 
 - date: Thu 10/26/23
+  lecturer:
   title: >
     <strong> Midterm </strong>
   recitation:
@@ -188,56 +189,41 @@
     - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2020) <a href="https://arxiv.org/pdf/2005.11401.pdf" traget="_blank">[link]</a>
     - Improving language models by retrieving from trillions of tokens (2021) <a href="https://arxiv.org/pdf/2112.04426.pdf" traget="_blank">[link]</a>
     - REPLUG, Retrieval-Augmented Black-Box Language Models <a href="https://arxiv.org/pdf/2301.12652.pdf" target="_blank">[link]</a>
-    - Retrieval-Augmented Multimodal Language Modeling <a href="https://arxiv.org/pdf/2211.12561.pdf" target="_blank">[link]</a>
-
-- date: Thu 11/02/23
-  lecturer: Arman
-  title:
-    - Tool augmented language models
-  readings:
-    - PEER- A Collaborative Language Model (2022) <a href="https://arxiv.org/pdf/2208.11663.pdf" traget="_blank">[link]</a>
-  optional:
-    - Generating Sequences by Learning to Self-Correct (2022) <a href="https://arxiv.org/pdf/2211.00053.pdf" traget="_blank">[link]</a>
 
 - date: Tue 11/07/23
   lecturer: Arman
   title:
-    - Mixture of experts and sparse models
+    - Quantization
+    - Distillation
   readings:
-    - Switch Transformers- Scaling to Trillion Parameter Models (2021) <a href="https://arxiv.org/pdf/2101.03961.pdf" traget="_blank">[link]</a>
-  optional:
-    - Sparse Upcycling- Training Mixture-of-Experts from Dense Checkpoints (2022) <a href="https://arxiv.org/pdf/2212.05055.pdf" traget="_blank">[link]</a>
-    # - Hyperdecoders- Instance-specific decoders for multi-task NLP (2022) <a href="https://arxiv.org/pdf/2203.08304.pdf" traget="_blank">[link]</a>
-
-- date: Tue 11/07/23
-  lecturer: Arman
-  title:
-    - Training data
-  readings:
-    - Competency Problems- On Finding and Removing Artifacts in Language Data (2021) <a href="https://arxiv.org/pdf/2104.08646.pdf" traget="_blank">[link]</a>
-  optional:
-    - Understanding Dataset Difficulty with V-Usable Information (2021) <a href="https://arxiv.org/pdf/2110.08420.pdf" traget="_blank">[link]</a>
+    - LLM.int8()- 8-bit Matrix Multiplication for Transformers at Scale (2022) <a href="https://arxiv.org/abs/2208.07339" traget="_blank">[link]</a>
 
 - date: Thu 11/09/23
   lecturer: Arman
   title:
-    - Mixture of experts and sparse models
+    - Societal consideration
+    - Harm, safety, and bias
   readings:
-    - Switch Transformers- Scaling to Trillion Parameter Models (2021) <a href="https://arxiv.org/pdf/2101.03961.pdf" traget="_blank">[link]</a>
-  optional:
-    - Sparse Upcycling- Training Mixture-of-Experts from Dense Checkpoints (2022) <a href="https://arxiv.org/pdf/2212.05055.pdf" traget="_blank">[link]</a>
-    # - Hyperdecoders- Instance-specific decoders for multi-task NLP (2022) <a href="https://arxiv.org/pdf/2203.08304.pdf" traget="_blank">[link]</a>
-  question-form: https://forms.gle/V37Z4vjM6mA6ad397
+    - On the dangers of stochastic parrots- Can language models be too big? (2021) <a href="https://arxiv.org/pdf/2005.14050.pdf" traget="_blank">[link]</a>
+    - Bias Out-of-the-Box- An Empirical Analysis of Intersectional Occupational Biases in Popular Generative Language Models (2021) <a href="https://papers.nips.cc/paper/2021/file/1531beb762df4029513ebf9295e0d34f-Paper.pdf" traget="_blank">[link]</a>
 
-- date: 11/14/23
+- date: Tue 11/14/23
   lecturer: Arman
   title:
-    - Vision transformers 1
+    - Contrastive learning
+    - Pretrained vision models
+  readings:
+    - A Simple Framework for Contrastive Learning of Visual Representations (2020) <a href="https://arxiv.org/pdf/2002.05709.pdf" traget="_blank">[link]</a>
+    - SwAV- Unsupervised Learning of Visual Features by Contrasting Cluster Assignments (2021) <a href="https://arxiv.org/pdf/2006.09882.pdf" traget="_blank">[link]</a>
+    - MoCo - Momentum Contrast for Unsupervised Visual Representation Learning (2020) <a href="https://arxiv.org/pdf/1911.05722.pdf" traget="_blank">[link]</a>
 
-- date: 11/16/23
+- date: Tue 11/16/23
   lecturer: Arman
   title:
-    - Vision transformers 2 and scaling up vision models
+    - Vision transformers
+  readings:
+    - An Image is Worth 16x16 Words- Transformers for Image Recognition at Scale (2020) <a href="https://arxiv.org/pdf/2010.11929.pdf" traget="_blank">[link]</a>
+    - Training data-efficient image transformers & distillation through attention (2021) <a href="https://arxiv.org/pdf/2012.12877.pdf" traget="_blank">[link]</a>
 
 - date: 11/17/23 - 11/26/23
   lecturer:
@@ -245,88 +231,31 @@
     <strong> Thanksgiving recess - No classes </strong>
   recitation:
 
-- date: 11/28/23
+- date: Thu 11/28/23
   lecturer: Arman
   title:
-    - Multi-modal models
+    - Scaling vision transformer models
   readings:
-    # - CM3- A Causal Masked Multimodal Model of the Internet (2022) <a href="https://arxiv.org/pdf/2201.07520.pdf" traget="_blank">[link]</a>
-    - Flamingo- a Visual Language Model for Few-Shot Learning (2022) <a href="https://arxiv.org/pdf/2204.14198.pdf" traget="_blank">[link]</a>
-  optional:
-    - CM3- A Causal Masked Multimodal Model of the Internet (2022) <a href="https://arxiv.org/pdf/2201.07520.pdf" traget="_blank">[link]</a>
+    - Scaling Vision Transformers to 22 Billion Parameters <a href="https://arxiv.org/pdf/2302.05442.pdf" traget="_blank">[link]</a>
 
 - date: 11/30/23
   lecturer: Arman
   title:
-    - Speech and audio models
+    - Multi-modal models
+    - Speech and audio
+  readings:
+    - CM3 - A Causal Masked Multimodal Model of the Internet (2022) <a href="https://arxiv.org/pdf/2201.07520.pdf" traget="_blank">[link]</a>
+    - Flamingo- a Visual Language Model for Few-Shot Learning (2022) <a href="https://arxiv.org/pdf/2204.14198.pdf" traget="_blank">[link]</a>
+    - Prompting Large Language Models with Speech Recognition Abilities (2023) <a href="https://arxiv.org/pdf/2307.11795.pdf" traget="_blank">[link]</a>
 
 - date: 12/05/23
-  lecturer:
+  lecturer: Arman
   title:
-    - Guest lecture
+    - Foundation models for Code generation
+  readings:
+    - StarCoder- May the source be with you! (2023) <a href="https://arxiv.org/pdf/2305.06161.pdf" traget="_blank">[link]</a>
 
 - date: 12/07/23
-  lecturer:
+  lecturer: Arman
   title:
-    - Guest lecture
-
-- date: TBD
-  lecturer: All students
-  title:
-    - Final presentations for projects
-  # readings:
-  #   - LLM.int8()- 8-bit Matrix Multiplication for Transformers at Scale <a href="https://arxiv.org/pdf/2208.07339.pdf" traget="_blank">[link]</a>
-  #   - Efficiently Scaling Transformer Inference <a href="https://arxiv.org/pdf/2211.05102.pdf" traget="_blank">[link]</a>
-  logistics:
-    - <span class="deadline">4/27 Presentations;</span>
-# - date:
-#   lecturer: Arman
-#   title:
-#     - Training LLMs with human feedback
-#     - AI Alignment
-#   readings:
-#     # - Learning to Summarize with Human Feedback (2020) <a href="https://arxiv.org/pdf/2009.01325.pdf">[link]</a>
-#     - A General Language Assistant as a Laboratory for Alignment (2021) <a href="https://arxiv.org/pdf/2112.00861.pdf" traget="_blank">[link]</a>
-#   optional:
-#     - Learning to Summarize with Human Feedback (2020) <a href="https://arxiv.org/pdf/2009.01325.pdf">[link]</a>
-#   question-form: https://forms.gle/5C3n8ozPZKrsUKRw5
-
-# - date:
-#   lecturer: Ziqing
-#   title:
-#     - AI Alignment
-#   readings:
-#     # - Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback (2022) <a href="https://arxiv.org/pdf/2204.05862.pdf" traget="_blank">[link]</a>
-#     - Fine-tuning language models to find agreement among humans with diverse preferences (2022) <a href="https://arxiv.org/pdf/2211.15006.pdf" traget="_blank">[link]</a>
-#   optional:
-#     - Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback (2022) <a href="https://arxiv.org/pdf/2204.05862.pdf" traget="_blank">[link]</a>
-#   question-form: https://forms.gle/hriZijXM6meicBZ48
-
-# - date:
-#   lecturer: Huangrui
-#   title:
-#     - LLMs for Code
-#   readings:
-#     - CodeGen- An Open Large Language Model for Code with Multi-Turn Program Synthesis (2022) <a href="https://arxiv.org/pdf/2203.13474.pdf" traget="_blank">[link]</a>
-#   optional:
-#     - InCoder- A Generative Model for Code Infilling and Synthesis (2022) <a href="https://arxiv.org/pdf/2204.05999.pdf" traget="_blank">[link]</a>
-#   question-form: https://forms.gle/U59pWv8J8J5LvTz28
-
-# - date:
-#   lecturer:
-#   title:
-#     - <b> Guest Lecture</b>
-#     - <a href="https://timdettmers.com/about/">Tim Dettmers</a> - Making LLMs more efficient
-#   readings:
-#     - LLM.int8()- 8-bit Matrix Multiplication for Transformers at Scale <a href="https://arxiv.org/pdf/2208.07339.pdf" traget="_blank">[link]</a>
-#     - Efficiently Scaling Transformer Inference <a href="https://arxiv.org/pdf/2211.05102.pdf" traget="_blank">[link]</a>
-
-# - date:
-#   lecturer: All students
-#   title:
-#     - Final presentations for projects
-#   # readings:
-#   #   - LLM.int8()- 8-bit Matrix Multiplication for Transformers at Scale <a href="https://arxiv.org/pdf/2208.07339.pdf" traget="_blank">[link]</a>
-#   #   - Efficiently Scaling Transformer Inference <a href="https://arxiv.org/pdf/2211.05102.pdf" traget="_blank">[link]</a>
-#   logistics:
-#     - <span class="deadline">4/27 Presentations; 5/10 Final project report</span>
+    - TBA
