@@ -193,8 +193,10 @@
   lecturer: Arman
   title:
     - Guest lecture by <a href="https://colinraffel.com/" target="_blank">Colin Raffel</a><br/> Build an Ecosystem, Not a Monolith<br/>
-  # readings:
-  #   - On the dangers of stochastic parrots- Can language models be too big? (2021) <a href="https://arxiv.org/pdf/2005.14050.pdf" traget="_blank">[link]</a>
+  readings:
+    - Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning (2022) <a href="https://arxiv.org/pdf/2205.05638.pdf" traget="_blank">[link]</a>
+    - Exploring and Predicting Transferability across NLP Tasks (2020) <a href="https://aclanthology.org/2020.emnlp-main.635.pdf" traget="_blank">[link]</a>
+    - Editing Models with Task Arithmetic (2022) <a href="https://arxiv.org/pdf/2212.04089.pdf" traget="_blank">[link]</a>
 
 - date: Tue 11/07/23
   lecturer: Arman
@@ -205,9 +207,10 @@
     - LLM.int8()- 8-bit Matrix Multiplication for Transformers at Scale (2022) <a href="https://arxiv.org/abs/2208.07339" traget="_blank">[link]</a>
 
 - date: Thu 11/09/23
-  lecturer: Arman
   title:
-    - Guest lecture (TBA)
+    - Safety, security, and societal considerations
+  readings:
+    - On the dangers of stochastic parrots- Can language models be too big? (2021) <a href="https://arxiv.org/pdf/2005.14050.pdf" traget="_blank">[link]</a>
 
 - date: Tue 11/14/23
   lecturer: Arman

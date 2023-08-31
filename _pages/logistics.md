@@ -37,7 +37,7 @@ Final grades will be comprised of:
 - 30%: Assignments, which includes both written and coding problem sets
 - 20%: Midterm, in person, closed book
 - 10%: Participation and quizzes
-- 40%: Final projects, including project proposal (5%), progress report (5%), final report (20%), code and reproducibility checklist (10%)
+- 40%: Final projects, including project proposal (5%), progress report (5%), final report and presentation (20%), code and reproducibility checklist (10%)
 
 **AI Assistant policies**
 
@@ -76,6 +76,7 @@ Students must complete a final research project on a topic of their choice relat
 -   **20%**: final project report
     -   4-6 (no more than 6 pages) page conference format report (e.g., [NeurIPS](https://www.overleaf.com/latex/templates/neurips-2023/vstgtvjwgdng)) detailing the project motivation, related work, proposed approach, results, and discussion. You can think of this as a conference paper. Negative results will not be penalized, but should be accompanied with detailed analysis of why the proposed methods didn't work and provide some additional insights into the problem. 
     -   References and appendix won't count towards the page limit
+    -   A 3 minute pre-recorded video presentation of your project.
 
 
 ## Integrity
