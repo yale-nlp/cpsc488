@@ -5,7 +5,7 @@
     - Course introduction
     - Logistics
     - Transformers - high level overview
-  slides: https://yalenlp.github.io/cpsc488/assets/lectures/f23/lecture_1_intro_logistics_transformers.pdf
+  slides: https://yale-nlp.github.io/cpsc488/assets/lectures/f23/lecture_1_intro_logistics_transformers.pdf
   readings:
     - Attention is all you need (2017) <a href="https://arxiv.org/abs/1706.03762" target="_blank">[link]</a>
   logistics:
