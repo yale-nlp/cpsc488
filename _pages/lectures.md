@@ -1,7 +1,8 @@
 ---
 layout: schedule
 permalink: /schedule/
-title: Schedule (Draft - subject to change)
+title: Schedule
+description: Note -  Due to the fast moving field, we might change some of the topics (with 2 weeks notice)
 ---
 
 {% assign current_module = 0 %}
