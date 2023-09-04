@@ -29,10 +29,10 @@ title: Schedule (Draft - subject to change)
     {%endif%}
     {% if lecture.title contains 'No class' or lecture.title contains 'cancelled' or lecture.title contains 'Buffer' or lecture.title contains 'Midterm' %}
         {% assign skip_classes = skip_classes | plus: 1 %}
-        <td colspan="4" align="center">{{ lecture.title }}<p align="right">{{ lecture.logistics }}</p></td>
+        <td colspan="4" align="center">{{ lecture.title }}<p align="right"  style="color:#E12222 ">{{ lecture.logistics }}</p></td>
     {% elsif lecture.quiz != blank %}
         {% assign skip_classes = skip_classes | plus: 1 %}
-        <td colspan="4" align="center">{{ lecture.quiz }}<p align="right">{{ lecture.logistics }}</p></td>
+        <td colspan="4" align="center">{{ lecture.quiz }}<p align="right"  style="color:#E12222 ">{{ lecture.logistics }}</p></td>
     {% else %}
     <td>
         {% if lecture.title %}
@@ -128,7 +128,7 @@ title: Schedule (Draft - subject to change)
         {% endif %}           
     </td>
     <td>
-        <p>{{ lecture.logistics }}</p>
+        <p  style="color:#E12222 ">{{ lecture.logistics }}</p>
     </td>
     {% endif %}
 </tr>
