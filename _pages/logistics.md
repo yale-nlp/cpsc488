@@ -22,11 +22,15 @@ The papers will be mostly from major conferences in the field including ACL, EMN
 
 Optional book chapter: Bommasani, Rishi et al. “On the Opportunities and Risks of Foundation Models.” Stanford, ArXiv abs/2108.07258 (2021)
 
+### Anonymous feedback
+
+If you wish to share comments, questions, or feedback anonymously please use this form: [Anonymous Form](https://docs.google.com/forms/u/1/d/e/1FAIpQLSfSw6DvGu6UNwfAyMxtrrwVRXVlx0Flpy-VY0lO1IjwQBBZ8g/viewform?usp=send_form).  
+I will check this regularly and respond to questions/comments in the next lecture.
 
 ### Communication
 
 We use Canvas and email for main announcements.
-For questions about the course, discussions about material, and faciliatating discussions for projects between students, we will mainly use Slack or [Zulip](https://zulip.com).
+For questions about the course, discussions about material, and faciliatating discussions for projects between students, we will mainly use Slack
 
 ***
 
