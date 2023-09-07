@@ -35,7 +35,7 @@
     - GloVe- Global Vectors for Word Representation (2014) <a href="https://nlp.stanford.edu/pubs/glove.pdf" target="_blank">[link]</a>
     - BPE - Neural Machine Translation of Rare Words with Subword Units (2016) <a href="https://arxiv.org/pdf/1508.07909.pdf" target="_blank">[link]</a>
     - SentencePiece- A simple and language independent subword tokenizer and detokenizer for Neural Text Processing (2018) <a href="https://arxiv.org/pdf/1808.06226.pdf" target="_blank">[link]</a>
-
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EeUZYaR-GFRHldOt3Ss9hv8BmqEXOIID_tLmgV3aylgx5g?e=Glpra6
   logistics:
 
 - date: Tue 09/12/23
