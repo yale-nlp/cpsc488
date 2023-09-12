@@ -5,7 +5,7 @@
     - Course introduction
     - Logistics
     - Transformers - high level overview
-  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EasWFaRb3O9FlIjBXGg2jpYBZAHtVu5yvLuiuJDxFbFrTg?e=Nm1iUG
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EasWFaRb3O9FlIjBXGg2jpYBlXuQ6pfCnr9kVorcUrP4kw?e=aJnoui
   readings:
     - Attention is all you need (2017) <a href="https://arxiv.org/abs/1706.03762" target="_blank">[link]</a>
   logistics:
@@ -15,7 +15,7 @@
     - Arman
   title:
     - Optimization, backpropagation, and training
-  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EY-tqM8VeRxGpNbdiyWnb0oBpZwIHga9A_d1PX9W8X29jQ?e=pDjAUS
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EY-tqM8VeRxGpNbdiyWnb0oBGcMZhix4In9a29nPdZpU4Q?e=1lDpDQ
   # slides2:
   logistics:
   readings:
@@ -35,7 +35,7 @@
     - GloVe- Global Vectors for Word Representation (2014) <a href="https://nlp.stanford.edu/pubs/glove.pdf" target="_blank">[link]</a>
     - BPE - Neural Machine Translation of Rare Words with Subword Units (2016) <a href="https://arxiv.org/pdf/1508.07909.pdf" target="_blank">[link]</a>
     - SentencePiece- A simple and language independent subword tokenizer and detokenizer for Neural Text Processing (2018) <a href="https://arxiv.org/pdf/1808.06226.pdf" target="_blank">[link]</a>
-  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EeUZYaR-GFRHldOt3Ss9hv8BmqEXOIID_tLmgV3aylgx5g?e=Glpra6
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EeUZYaR-GFRHldOt3Ss9hv8BsxW6SVuZC5zs-oG79eq1cQ?e=d6JVXL
   logistics:
 
 - date: Tue 09/12/23
