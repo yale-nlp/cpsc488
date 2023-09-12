@@ -44,7 +44,14 @@
   title:
     - Transformers
     - Positional Information
+      - Absolute
+      - Relative
+      - ROPE
+      - ALiBi
     - Implementation details
+      - Multi-Query Attention
+    - Grouped Multi-Query Attention
+    - KV caching
   readings:
     - Attention is all you need (2017) <a href="https://arxiv.org/abs/1706.03762" target="_blank">[link]</a>
     - The Annotated Transformer <a href="https://nlp.seas.harvard.edu/2018/04/03/attention.html" target="_blank">[link]</a>
