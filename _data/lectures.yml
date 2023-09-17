@@ -43,41 +43,33 @@
     - Arman
   title:
     - Transformers
-    - Positional Information
-      - Absolute
-      - Relative
-      - ROPE
-      - ALiBi
     - Implementation details
-      - Multi-Query Attention
-    - Grouped Multi-Query Attention
-    - KV caching
   readings:
     - Attention is all you need (2017) <a href="https://arxiv.org/abs/1706.03762" target="_blank">[link]</a>
     - The Annotated Transformer <a href="https://nlp.seas.harvard.edu/2018/04/03/attention.html" target="_blank">[link]</a>
-    - Train Short, Test Long- Attention with Linear Biases Enables Input Length Extrapolation <a href="https://arxiv.org/abs/2108.12409" target="_blank">[link]</a>
-    - RoFormer- Enhanced Transformer with Rotary Position Embedding <a href="https://arxiv.org/pdf/2104.09864.pdf" target="_blank">[link]</a>
-    - Fast Transformer Decoding- One Write-Head is All You Need <a href="Fast Transformer Decoding- One Write-Head is All You Need">[link]</a>
-  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/Ec_DoGtFQNhBl61i8JEbEK4BVIY3tmfiAfXyVJtj1IVePA?e=8N74Ox
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/Ec_DoGtFQNhBl61i8JEbEK4BVIY3tmfiAfXyVJtj1IVePA?e=JesZaahttps://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/Ec_DoGtFQNhBl61i8JEbEK4BVIY3tmfiAfXyVJtj1IVePA?e=8N74Ox
   logistics:
 
 - date: Thu 09/14/23
   lecturer:
     - Arman
   title:
-    - Language Modeling
-    - Pretraining
-    - Transfer learning
+    - Positional Information
+      - Absolute
+      - Relative
+      - ROPE
+      - ALiBi
+    - Multi-Query Attention
+    - Grouped Multi-Query Attention
+    - Inference
+    - KV caching
+    - Encoder/decoder-only vs encoder-decoder
   notes:
   readings:
-    - ELMo, Deep Contextualized Representations <a href="https://arxiv.org/pdf/1802.05365.pdf">[link]</a>
-    - ULMFit, Universal Language Model Fine-tuning for Text Classification <a href="https://arxiv.org/pdf/1801.06146.pdf">[link]</a>
-    - BERT, Pre-training of Deep Bidirectional Transformers for Language Understanding <a href="https://arxiv.org/pdf/1810.04805.pdf">[link]</a>
-    - UL2- Unifying Language Learning Paradigms (2022) <a href="https://arxiv.org/pdf/2205.05131.pdf">[link]</a>
-    - What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization? (2022) <a href="https://arxiv.org/pdf/2204.05832.pdf">[link]</a>
-  optional:
-    - Scale Efficiently - Insights from Pre-training and Fine-tuning Transformers (2021) <a href="https://arxiv.org/pdf/2109.10686.pdf">[link]</a>
-    - Training Compute-Optimal Large Language Models (2022) <a href="https://arxiv.org/pdf/2203.15556.pdf" target="blank">[link]</a>
+    - Train Short, Test Long- Attention with Linear Biases Enables Input Length Extrapolation <a href="https://arxiv.org/abs/2108.12409" target="_blank">[link]</a>
+    - RoFormer- Enhanced Transformer with Rotary Position Embedding <a href="https://arxiv.org/pdf/2104.09864.pdf" target="_blank">[link]</a>
+    - Fast Transformer Decoding- One Write-Head is All You Need <a href="https://arxiv.org/pdf/1911.02150.pdf">[link]</a>
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EQZlgr48VPRPo6fG7QUtYjABmxvnsCVxp-tO-RFmdhnQlQ?e=fkZVHV
 
 - date: Th 09/19/23
   lecturer:
@@ -86,10 +78,15 @@
     - Transfer Learning (continued)
     - Transformer efficiency
   readings:
+    - ELMo, Deep Contextualized Representations <a href="https://arxiv.org/pdf/1802.05365.pdf">[link]</a>
+    - ULMFit, Universal Language Model Fine-tuning for Text Classification <a href="https://arxiv.org/pdf/1801.06146.pdf">[link]</a>
+    - BERT, Pre-training of Deep Bidirectional Transformers for Language Understanding <a href="https://arxiv.org/pdf/1810.04805.pdf">[link]</a>
+    - UL2- Unifying Language Learning Paradigms (2022) <a href="https://arxiv.org/pdf/2205.05131.pdf">[link]</a>
+    - What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization? (2022) <a href="https://arxiv.org/pdf/2204.05832.pdf">[link]</a>
     - BART, Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension <a href="https://arxiv.org/pdf/1910.13461.pdf">[link]</a>
     - ELECTRA, Pre-training Text Encoders as Discriminators Rather Than Generators <a href="https://arxiv.org/abs/2003.10555">[link]</a>
   logistics:
-    - Project teams due
+    - Project teams due. Team submission <a href="https://forms.gle/Ce37NzChwvbX2N5Y6">form</a>
 
 - date: Th 09/21/23
   lecturer:
