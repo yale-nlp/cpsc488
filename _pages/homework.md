@@ -4,4 +4,31 @@ permalink: /homework/
 title: Homework Assignments
 ---
 
+
+
+<h1>Homework 1</h1>
+
+This homework has two parts. One hand out and one coding section.  
+Download the homework from the following link: [[Download]](https://yaleedu-my.sharepoint.com/:u:/g/personal/arman_cohan_yale_edu/EWLsxR38t9hPp4OG4zeglskB-VjNXg9minUVjJqI_4ECtw?e=Unvzj2)
+
+For each part instructions are in the file.
+
+
+Files:  
+```
+- CPSC_488_Fall_2023_HW_1.pdf   # the handout
+- tensor.py                     # implementing auto differentiation and back propagation
+- tokenizer.py                  # implementing a tokenizer
+- transformer.ipynb                # implementing GQA
+```
+
+For the handout, complete the solutions in latex and return the pdf file.
+
+For the tensor.py and tokenizer.py file, the instructions are in the file.
+
+The transformer.ipynb also includes detailed instructions. 
+
+You can submit the assignment in a zip file with the following format:
+`lastname-firstname-hw1.zip`.
+
 <!-- - [Homework 1](https://piazza.com/cmu/fall2019/10703/resources): Due by Friday, 20<sup>th</sup> September 2019. -->
