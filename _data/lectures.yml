@@ -76,28 +76,27 @@
   lecturer:
     - Arman
   title:
-    - Transfer Learning (continued)
-    - Transformer efficiency
+    - Transfer Learning
   readings:
     - ELMo, Deep Contextualized Representations <a href="https://arxiv.org/pdf/1802.05365.pdf">[link]</a>
     - ULMFit, Universal Language Model Fine-tuning for Text Classification <a href="https://arxiv.org/pdf/1801.06146.pdf">[link]</a>
     - BERT, Pre-training of Deep Bidirectional Transformers for Language Understanding <a href="https://arxiv.org/pdf/1810.04805.pdf">[link]</a>
-    - UL2- Unifying Language Learning Paradigms (2022) <a href="https://arxiv.org/pdf/2205.05131.pdf">[link]</a>
-    - What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization? (2022) <a href="https://arxiv.org/pdf/2204.05832.pdf">[link]</a>
-    - BART, Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension <a href="https://arxiv.org/pdf/1910.13461.pdf">[link]</a>
     - ELECTRA, Pre-training Text Encoders as Discriminators Rather Than Generators <a href="https://arxiv.org/abs/2003.10555">[link]</a>
   logistics:
     - Project teams due. <a href="https://forms.gle/Ce37NzChwvbX2N5Y6">[Team submission form]</a>
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EWx4O3lqO-VDnJXLrkneCZEBuMtgyQXBnx2XZM_VxkScGw?e=CAQakg
 
 - date: Th 09/21/23
   lecturer:
     - Arman
   title:
-    - Transformer efficiency
-    - Hardware aware implementation
+    - Model architecture and training objectives
+      - Encoder-decoder, decoder-only
   readings:
-    - Flash attention - Fast and memory-efficient exact attention with IO-awareness (2022) <a href="https://arxiv.org/pdf/2205.14135.pdf">[link]</a>
-    - Flash attention v2 - Faster Attention with Better Parallelism and Work Partitioning
+    - Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer <a href="https://arxiv.org/pdf/1910.10683.pdf">[link]<a/>
+    - UL2- Unifying Language Learning Paradigms (2022) <a href="https://arxiv.org/pdf/2205.05131.pdf">[link]</a>
+    - What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization? (2022) <a href="https://arxiv.org/pdf/2204.05832.pdf">[link]</a>
+    - BART, Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension <a href="https://arxiv.org/pdf/1910.13461.pdf">[link]</a>
 
 - date: Tue 09/26/23
   lecturer:
@@ -159,12 +158,14 @@
   lecturer:
     - Arman
   title:
+    - Efficiency
     - Mixture of experts
   readings:
+    - Flash attention - Fast and memory-efficient exact attention with IO-awareness (2022) <a href="https://arxiv.org/pdf/2205.14135.pdf">[link]</a>
+    - Flash attention v2 - Faster Attention with Better Parallelism and Work Partitioning
     - Outrageously Large Neural Networks- The Sparsely-Gated Mixture-of-Experts Layer (2017) <a href="https://arxiv.org/pdf/1701.06538.pdf" traget="_blank">[link]</a>
     - Switch Transformers- Scaling to Trillion Parameter Models (2021) <a href="https://arxiv.org/pdf/2101.03961.pdf" traget="_blank">[link]</a>
     - Sparse Upcycling- Training Mixture-of-Experts from Dense Checkpoints (2022) <a href="https://arxiv.org/pdf/2212.05055.pdf" traget="_blank">[link]</a>
-
   optional:
     - Efficient Transformers- A Survey <a href="https://arxiv.org/pdf/2009.06732.pdf" target="_blank">[link] </a>
 
