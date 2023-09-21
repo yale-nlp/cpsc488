@@ -84,7 +84,7 @@
     - ELECTRA, Pre-training Text Encoders as Discriminators Rather Than Generators <a href="https://arxiv.org/abs/2003.10555">[link]</a>
   logistics:
     - Project teams due. <a href="https://forms.gle/Ce37NzChwvbX2N5Y6">[Team submission form]</a>
-  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EWx4O3lqO-VDnJXLrkneCZEBuMtgyQXBnx2XZM_VxkScGw?e=CAQakg
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EWx4O3lqO-VDnJXLrkneCZEBuMtgyQXBnx2XZM_VxkScGw?e=G8TVhy
 
 - date: Th 09/21/23
   lecturer:
@@ -92,11 +92,13 @@
   title:
     - Model architecture and training objectives
       - Encoder-decoder, decoder-only
+      - UL2 / FIM
   readings:
     - Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer <a href="https://arxiv.org/pdf/1910.10683.pdf">[link]<a/>
     - UL2- Unifying Language Learning Paradigms (2022) <a href="https://arxiv.org/pdf/2205.05131.pdf">[link]</a>
     - What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization? (2022) <a href="https://arxiv.org/pdf/2204.05832.pdf">[link]</a>
     - BART, Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension <a href="https://arxiv.org/pdf/1910.13461.pdf">[link]</a>
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EavoTgCLvGZHs_0OrtmN02kBd4AgYB4Zscl0dDYjqpVPig?e=DVB2Ya
 
 - date: Tue 09/26/23
   lecturer:
