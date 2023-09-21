@@ -48,7 +48,8 @@
     - Attention is all you need (2017) <a href="https://arxiv.org/abs/1706.03762" target="_blank">[link]</a>
     - The Annotated Transformer <a href="https://nlp.seas.harvard.edu/2018/04/03/attention.html" target="_blank">[link]</a>
   slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/Ec_DoGtFQNhBl61i8JEbEK4BVIY3tmfiAfXyVJtj1IVePA?e=JesZaahttps://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/Ec_DoGtFQNhBl61i8JEbEK4BVIY3tmfiAfXyVJtj1IVePA?e=8N74Ox
-  logistics:
+  notebook: https://yaleedu-my.sharepoint.com/:u:/g/personal/arman_cohan_yale_edu/EdTKIVshcrZOn4tplykREL8BFdWdMatrJfUovcclalIY5Q?e=dXkuVT
+  notebook_title: notebook transformer.ipynb
 
 - date: Thu 09/14/23
   lecturer:

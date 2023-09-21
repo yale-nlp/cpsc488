@@ -109,6 +109,9 @@ description: Note -  Due to the fast moving field, we might change some of the t
         {% if lecture.question-form %}
             <br/> [ <a href="{{ lecture.question-form }}" target="_blank">questions form</a> ] 
         {% endif %}
+        {% if lecture.notebook %}
+            <br/> [ <a href="{{ lecture.notebook }}" target="_blank"> {{lecture.notebook_title}} </a> ] 
+        {% endif %}        
     </td>
     <td>
         {% if lecture.readings %}
