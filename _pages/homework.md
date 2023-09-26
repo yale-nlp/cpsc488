@@ -31,4 +31,10 @@ The transformer.ipynb also includes detailed instructions.
 You can submit the assignment in a zip file with the following format:
 `lastname-firstname-hw1.zip`.
 
+Rubric:
+Handout: 30 points (each Q gets 6 points)
+Backpropagation: 20 points
+Tokenizer: 40 points
+Transformer GQA: 10 points
+
 <!-- - [Homework 1](https://piazza.com/cmu/fall2019/10703/resources): Due by Friday, 20<sup>th</sup> September 2019. -->
