@@ -153,7 +153,14 @@
   lecturer:
     - Arman
   title:
-    - Guest lecture by <a href="https://beltagy.net/" target="_blank">Iz Beltagy</a> <br/>Building an Open Source LLM
+    - Guest lecture by <a href="https://beltagy.net/" target="_blank">Iz Beltagy</a> <br/>Challenges and Opportunities Building Open LLMs
+  readings:
+    - What Language Model to Train if You Have One Million GPU Hours (2022) <a href="https://arxiv.org/abs/2210.15424" target="_blank">[link]</a>
+    - Dolma- Trillion Token Open Corpus for Language Model Pretraining (2023) <a href="https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64">[link]</a>
+    - Llama 2- Open Foundation and Fine-Tuned Chat Models (2023) <a href="https://arxiv.org/pdf/2307.09288.pdf">[link]</a>
+    - Pythia- A Suite for Analyzing Large Language Models Across Training and Scaling (2023) <a href="https://arxiv.org/pdf/2304.01373.pdf">[link]</a>
+    - BLOOM- A 176B-Parameter Open-Access Multilingual Language Model (2022) <a href="https://arxiv.org/abs/2211.05100">[link]</a>
+    - Scaling Language Models- Methods, Analysis & Insights from Training Gopher (2022) <a href="https://arxiv.org/pdf/2304.01373.pdf">[link]</a>
 
 - date: Thu 10/12/23
   lecturer:
