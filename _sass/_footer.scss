@@ -32,12 +32,12 @@
 .social-media-list {
   list-style: none;
   margin-left: 0;
-  font-size: x-small;
+  font-size: small;
 }
 
 .footer-col-wrapper {
   color: $grey-color;
-  font-size: 0.5375;
+  font-size: 1;
   margin-left: -$horizontal-spacing-unit / 2;
   @extend .clearfix;
 }
@@ -47,13 +47,13 @@
   width: calc(100% - (#{$horizontal-spacing-unit} / 2));
   margin-bottom: $vertical-spacing-unit / 2;
   padding-left: $horizontal-spacing-unit / 2;
-  font-size: xx-small;
+  font-size: small;
 }
 
 .footer-col-1,
 .footer-col-2 {
-  width: -webkit-calc(50% - (#{$horizontal-spacing-unit} / 2));
-  width: calc(50% - (#{$horizontal-spacing-unit} / 2));
+  width: -webkit-calc(80% - (#{$horizontal-spacing-unit} / 2));
+  width: calc(80% - (#{$horizontal-spacing-unit} / 2));
 }
 
 .footer-col-3 {

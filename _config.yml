@@ -9,7 +9,7 @@ description: >
   AI Foundation Models - Yale University - Spring 2023
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-  Theme based on <a href="https://github.com/cmudeeprl"> Deep RL</a>.
+  <br/>Theme based on <a href="https://github.com/cmudeeprl"> CMU Deep RL</a>.
 
 url: # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
