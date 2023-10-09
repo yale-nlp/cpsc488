@@ -28,3 +28,17 @@ TAs:
     office-hours: Mon 3-4 PM
     location: 17 HH 3rd Floor, common area
     image: staff/chenl.jpg
+
+  - name: Jake Tae
+    email: jake.tae@yale.edu
+    url: https://jaketae.github.io/
+    office-hours: TBA
+    location: 17 HH 3rd Floor, common area
+    image: staff/jake.jpg
+
+  - name: Jacob Dunefsky
+    email: jacob.dunefsky@yale.edu
+    url: https://www.linkedin.com/in/jacob-dunefsky-703562196/
+    office-hours: Wed 5-6 PM
+    location: 17 HH 3rd Floor, common area
+    image: staff/jacob.jpg
