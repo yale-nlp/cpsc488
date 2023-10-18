@@ -4,7 +4,22 @@ permalink: /homework/
 title: Homework Assignments
 ---
 
+<h1>Homework 2</h1>
 
+The homework has two parts.
+
+Please download the files from the following link: [Download](https://yaleedu-my.sharepoint.com/:f:/g/personal/arman_cohan_yale_edu/ElymUHe0slZAjMIzNa0ULlEBH6FbxXbdmjIMP8wrTn_NmQ?e=8i0a4U)
+
+<h3> Prompting and in-context learning </h3>
+
+This part focuses on in-context learning using an open-source Large Language Model.  
+You will be working with Mistral-7B-0.1, a recently-released large language model, with the goal of finding a prompting technique that causes the model to obtain the best performance on [GSM8K, a dataset of middle-school-level mathematics word problems](https://github.com/openai/grade-school-math).
+
+<h3> Parameter-efficient finetuning using IA3 </h3>
+
+In this focuses on the [IA3](https://arxiv.org/pdf/2205.05638.pdf) algorithm for parameter-efficient fine-tuning (PEFT).  
+You will be using the HuggingFace Transformers library to fine-tune a pre-trained model on the XSum dataset for abstractive summarization.
+The goal is to compare the performance of the IA3 PEFT method with the baseline full fine-tuning approach.
 
 <h1>Homework 1</h1>
 
