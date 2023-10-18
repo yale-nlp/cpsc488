@@ -21,6 +21,10 @@ In this focuses on the [IA3](https://arxiv.org/pdf/2205.05638.pdf) algorithm for
 You will be using the HuggingFace Transformers library to fine-tune a pre-trained model on the XSum dataset for abstractive summarization.
 The goal is to compare the performance of the IA3 PEFT method with the baseline full fine-tuning approach.
 
+The detailed instructions for completing each homework is in the corresponding `README` file.
+
+---
+
 <h1>Homework 1</h1>
 
 This homework has two parts. One hand out and one coding section.  
