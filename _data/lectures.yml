@@ -178,6 +178,8 @@
     - Pythia- A Suite for Analyzing Large Language Models Across Training and Scaling (2023) <a href="https://arxiv.org/pdf/2304.01373.pdf">[link]</a>
     - BLOOM- A 176B-Parameter Open-Access Multilingual Language Model (2022) <a href="https://arxiv.org/abs/2211.05100">[link]</a>
     - Scaling Language Models- Methods, Analysis & Insights from Training Gopher (2022) <a href="https://arxiv.org/pdf/2304.01373.pdf">[link]</a>
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EdAJQ2LSMuRNi2UMJqU4ra4BwaPuYeMbKMIDvOUu1OGe3A?e=FPwtVG
 
 - date: Thu 10/12/23
   lecturer:
@@ -194,9 +196,12 @@
 
 - date: Tue 10/17/23
   title:
-    - Guest lecture by <a href="https://scholar.google.com/citations?hl=en&user=_8mkIjgAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Tushar Khot</a> <br/>Tool augmented language models, Modular networks
+    - Guest lecture by <a href="https://scholar.google.com/citations?hl=en&user=_8mkIjgAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Tushar Khot</a> <br/>Reasoning with (De)Composition
   readings:
-    - Toolformer - A Tool-Augmented Language Model (2022) <a href="https://arxiv.org/pdf/2209.01696.pdf" traget="_blank">[link]</a>
+    - Hey AI, Can You Solve Complex Tasks by Talking to Agents? <a href="https://arxiv.org/pdf/2110.08542.pdf" target="_blank">[link]</a>
+    - Toolformer - A Tool-Augmented Language Model (2022) <a href="https://arxiv.org/pdf/2302.04761.pdf" traget="_blank">[link]</a>
+    - Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback (2023) <a href="https://arxiv.org/pdf/2110.08542.pdf" traget="_blank">[link]</a>
+    - ReAct: Synergizing Reasoning and Acting in Language Models <a href="https://arxiv.org/abs/2210.03629" target="_blank">[link]</a>
   logistics:
     - 10/19 Project proposal due
 
