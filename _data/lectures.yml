@@ -192,6 +192,7 @@
     - Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning (2022) <a href="https://arxiv.org/pdf/2205.05638.pdf" target="_blank">[link]</a>
     - LoRA- Low-Rank Adaptation of Large Language Models <a href="https://arxiv.org/pdf/2106.09685.pdf" target="_blank">[link]</a>
     - Scaling Down to Scale Up- A Guide to Parameter-Efficient Fine-Tuning <a href="https://arxiv.org/pdf/2303.15647.pdf" target="_blank">[link]</a>
+    - Efficient Transformers- A Survey <a href="https://arxiv.org/pdf/2009.06732.pdf" target="_blank">[link] </a>
   slides:
     - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EQS1IpFyWd1Euwn1lgnKvzMBfpxYRx9v-qKyhxoPO7XNxA?e=xymAgs
 
@@ -221,13 +222,15 @@
     - Efficiency
     - Mixture of experts
   readings:
-    - Flash attention - Fast and memory-efficient exact attention with IO-awareness (2022) <a href="https://arxiv.org/pdf/2205.14135.pdf">[link]</a>
-    - Flash attention v2 - Faster Attention with Better Parallelism and Work Partitioning
+    # - Flash attention - Fast and memory-efficient exact attention with IO-awareness (2022) <a href="https://arxiv.org/pdf/2205.14135.pdf">[link]</a>
+    # - Flash attention v2 - Faster Attention with Better Parallelism and Work Partitioning
+    - Modular Deep Learning (2022) <a href="https://www.semanticscholar.org/paper/Modular-Deep-Learning-Pfeiffer-Ruder/1f346f74e8eabececa4896d734ab9b261f30830d?utm_medium=extension&utm_content=redirect&utm_source=arxiv.org">[link]</a>
+    - A Review of Sparse Expert Models in Deep Learning (2022) <a href="https://arxiv.org/abs/2209.01667" traget="_blank">[link]</a>
     - Outrageously Large Neural Networks- The Sparsely-Gated Mixture-of-Experts Layer (2017) <a href="https://arxiv.org/pdf/1701.06538.pdf" traget="_blank">[link]</a>
     - Switch Transformers- Scaling to Trillion Parameter Models (2021) <a href="https://arxiv.org/pdf/2101.03961.pdf" traget="_blank">[link]</a>
-    - Sparse Upcycling- Training Mixture-of-Experts from Dense Checkpoints (2022) <a href="https://arxiv.org/pdf/2212.05055.pdf" traget="_blank">[link]</a>
-  optional:
-    - Efficient Transformers- A Survey <a href="https://arxiv.org/pdf/2009.06732.pdf" target="_blank">[link] </a>
+    # - Sparse Upcycling- Training Mixture-of-Experts from Dense Checkpoints (2022) <a href="https://arxiv.org/pdf/2212.05055.pdf" traget="_blank">[link]</a>
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EV-e97WtemZAuD_TDT-02zoBxh3GYqsJpNm-tSAWa62NJw?e=kz7dCF
 
 - date: Thu 10/26/23
   lecturer:
