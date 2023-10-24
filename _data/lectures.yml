@@ -219,7 +219,7 @@
   lecturer:
     - Arman
   title:
-    - Efficiency
+    - Modular deep learning
     - Mixture of experts
   readings:
     # - Flash attention - Fast and memory-efficient exact attention with IO-awareness (2022) <a href="https://arxiv.org/pdf/2205.14135.pdf">[link]</a>
