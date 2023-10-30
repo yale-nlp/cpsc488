@@ -305,6 +305,9 @@
     - Scaling Vision Transformers to 22 Billion Parameters <a href="https://arxiv.org/pdf/2302.05442.pdf" traget="_blank">[link]</a>
 
 - date: Thu 11/30/23
+  title: Guest lecture by <a href="https://neilhoulsby.github.io/" target="_blank">Neil Houlsby</a> <br/> Vision transformer models
+
+- date: Thu 11/30/23
   lecturer: Arman
   title:
     - Multi-modal models
@@ -319,7 +322,7 @@
 - date: 12/05/23
   lecturer: Arman
   title:
-    - Foundation models for Code generation
+    - Guest lecture by Ansong Ni <a href="https://ansong-ni.github.io/" target="_blank">Ansong Ni</a> <br/> Foundation Models for Code and Math
   readings:
     - StarCoder- May the source be with you! (2023) <a href="https://arxiv.org/pdf/2305.06161.pdf" traget="_blank">[link]</a>
 
