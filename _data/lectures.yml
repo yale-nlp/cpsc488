@@ -268,9 +268,11 @@
 
 - date: Thu 11/09/23
   title:
-    - Safety, security, and societal considerations
+    - Modeling long sequences
+    - Hardware aware efficiency
+    - Quantization
   readings:
-    - On the dangers of stochastic parrots- Can language models be too big? (2021) <a href="https://arxiv.org/pdf/2005.14050.pdf" traget="_blank">[link]</a>
+    - TBA
 
 - date: Tue 11/14/23
   lecturer: Arman
