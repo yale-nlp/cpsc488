@@ -258,10 +258,11 @@
 - date: Tue 11/07/23
   lecturer: Arman
   title:
-    - Quantization
-    - Distillation
+    - Modeling long sequences
   readings:
-    - LLM.int8()- 8-bit Matrix Multiplication for Transformers at Scale (2022) <a href="https://arxiv.org/abs/2208.07339" traget="_blank">[link]</a>
+    - TBA
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EWukrTCiFJtJnwXhsnX8rrYBnsj9zpCyZe01rbnCw6VAPw?e=IR7Dgy
   logistics:
     - HW 2 due
 
