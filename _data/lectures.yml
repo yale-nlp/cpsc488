@@ -286,6 +286,8 @@
     - Reformer - The Efficient Transformer (2020) <a href="https://arxiv.org/pdf/2001.04451.pdf" traget="_blank">[link]</a>
     - Long T5 - Efficient Text-To-Text Transformer for Long Sequences (2022) <a href="https://arxiv.org/pdf/2103.06336.pdf" traget="_blank">[link]</a>
     - FlashAttention - Fast and Memory-Efficient Exact Attention with IO-Awareness (2022) <a href="https://arxiv.org/abs/2205.14135" traget="_blank">[link]</a>
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EZ3tj2FqiwRInttI48LAjFcB2HANqtH8-ANEi-MSYYIivw?e=2e6INr
 
 - date: Tue 11/14/23
   lecturer: Arman
