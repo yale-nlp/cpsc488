@@ -325,24 +325,19 @@
 - date: Tue 11/28/23
   lecturer: Arman
   title:
-    - Scaling vision transformer models
-  readings:
-    - Scaling Vision Transformers to 22 Billion Parameters <a href="https://arxiv.org/pdf/2302.05442.pdf" traget="_blank">[link]</a>
+    - Final project presentations -- session 1
 
 - date: Thu 11/30/23
   title: Guest lecture by <a href="https://neilhoulsby.github.io/" target="_blank">Neil Houlsby</a> <br/> Vision transformer models
+- readings:
+    - Scaling Vision Transformers to 22 Billion Parameters (2023) <a href="https://arxiv.org/abs/2302.05442" traget="_blank">[link]</a>
 
-- date: Thu 11/30/23
+- date: Friday 12/1/23
   lecturer: Arman
   title:
-    - Multi-modal models
-    - Speech and audio
-  readings:
-    - CM3 - A Causal Masked Multimodal Model of the Internet (2022) <a href="https://arxiv.org/pdf/2201.07520.pdf" traget="_blank">[link]</a>
-    - Flamingo- a Visual Language Model for Few-Shot Learning (2022) <a href="https://arxiv.org/pdf/2204.14198.pdf" traget="_blank">[link]</a>
-    - Prompting Large Language Models with Speech Recognition Abilities (2023) <a href="https://arxiv.org/pdf/2307.11795.pdf" traget="_blank">[link]</a>
+    - Final project presentations -- session 2
   logistics:
-    - 12/1 HW 3 due
+    - 12/8 HW 3 due
 
 - date: 12/05/23
   lecturer: Arman
@@ -354,6 +349,6 @@
 - date: 12/07/23
   lecturer: Arman
   title:
-    - TBA
+    - Moved to 12/1 (see above)
   logistics:
     - 12/18 Final project report due
