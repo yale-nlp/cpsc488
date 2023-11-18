@@ -343,14 +343,14 @@
   logistics:
     - 12/8 HW 3 due
 
-- date: 12/05/23
+- date: Tue 12/05/23
   lecturer: Arman
   title:
-    - Guest lecture by Ansong Ni <a href="https://ansong-ni.github.io/" target="_blank">Ansong Ni</a> <br/> Foundation Models for Code and Math
+    - Guest lecture by <a href="https://ansong-ni.github.io/" target="_blank">Ansong Ni</a> <br/> Foundation Models for Code and Math
   readings:
     - StarCoder- May the source be with you! (2023) <a href="https://arxiv.org/pdf/2305.06161.pdf" traget="_blank">[link]</a>
 
-- date: 12/07/23
+- date: Thu 12/07/23
   lecturer: Arman
   title:
     - Moved to 12/1 (see above)
