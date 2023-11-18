@@ -331,8 +331,10 @@
 
 - date: Thu 11/30/23
   title: Guest lecture by <a href="https://neilhoulsby.github.io/" target="_blank">Neil Houlsby</a> <br/> Vision transformer models
-- readings:
+  readings:
     - Scaling Vision Transformers to 22 Billion Parameters (2023) <a href="https://arxiv.org/abs/2302.05442" traget="_blank">[link]</a>
+    - From Sparse to Soft Mixtures of Experts (2023) <a href="https://arxiv.org/pdf/2308.00951.pdf" traget="_blank">[link]</a>
+    - PaLI-X- On Scaling up a Multilingual Vision and Language Model <a href="https://arxiv.org/pdf/2305.18565.pdf" traget="_blank">[link]</a>
 
 - date: Friday 12/1/23
   lecturer: Arman
