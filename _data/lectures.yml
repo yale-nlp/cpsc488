@@ -375,8 +375,13 @@
 
 - date: Tue 12/05/23
   lecturer: Arman
+  guest:
+    - name: Ansong Ni
+      profile: https://niansong1996.github.io/
+      photo: https://niansong1996.github.io/images/ansong-ni.jpeg
+      affil: Yale University
   title:
-    - Guest lecture by <a href="https://ansong-ni.github.io/" target="_blank">Ansong Ni</a> <br/> Foundation Models for Code and Math
+    - Foundation Models for Code and Math
   readings:
     - StarCoder- May the source be with you! (2023) <a href="https://arxiv.org/pdf/2305.06161.pdf" traget="_blank">[link]</a>
 
