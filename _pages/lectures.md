@@ -65,7 +65,7 @@ description: Note -  Due to the fast moving field, we might change some of the t
         Panel:
         {% for lecturer in lecture.lecturer %}
             <span style="color:#397DF6">{{ lecturer }},</span>            
-        {% endfor %}            
+        {% endfor %}                
         <span style="color:#397DF6">{{ panelist }}</span>
         {% for panelist in lecture.panelists %}
                 {% if forloop.last == false %}
@@ -73,10 +73,24 @@ description: Note -  Due to the fast moving field, we might change some of the t
                 {% else %}    
                     <span style="color:#397DF6">{{ panelist }}</span>
                 {% endif %}
-
         {% endfor %}                
         <!-- <p style="color:green;">{{ lecture.lecturer }}</p><br /> -->
-        {% endif %}        
+        {% endif %}
+
+        {% if lecture.guest %}
+            {% for guest in lecture.guest %}
+                <div style="margin-bottom: 0px;">
+                Guest lecturer: <br/> <span style="color:#397DF6">{{ guest.name }}, {{ guest.affil }}</span>
+                </div>
+                {% if guest.photo %}
+                    <a href="{{ guest.profile }}" target="_blank">
+                        <img src="{{ guest.photo }}" alt="Photo of {{ guest.name }}" style="max-width:34%; height:auto; margin:10px 0;">
+                    </a>
+                {% endif %}
+            {% endfor %}
+            <br/>
+        {% endif %}
+
         {% if lecture.slides or lecture.slides2 %}        
         [
         {% endif %}
@@ -111,7 +125,9 @@ description: Note -  Due to the fast moving field, we might change some of the t
         {% endif %}
         {% if lecture.notebook %}
             <br/> [ <a href="{{ lecture.notebook }}" target="_blank"> {{lecture.notebook_title}} </a> ] 
-        {% endif %}        
+        {% endif %}       
+
+
     </td>
     <td>
         {% if lecture.readings %}
@@ -129,7 +145,7 @@ description: Note -  Due to the fast moving field, we might change some of the t
                 <li>{{ optional }}</li>            
             {% endfor %}        
         </ul>            
-        {% endif %}           
+        {% endif %}
     </td>
     <td>
         <p  style="color:#E12222 ">{{ lecture.logistics }}</p>

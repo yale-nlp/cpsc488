@@ -169,8 +169,13 @@
 - date: Tues 10/10/23
   lecturer:
     - Arman
+  guest:
+    - name: Iz Beltagy
+      photo: https://beltagy.net/assets/logo.jpg
+      profile: https://beltagy.net/
+      affil: Allen Institute for AI
   title:
-    - Guest lecture by <a href="https://beltagy.net/" target="_blank">Iz Beltagy</a> <br/>Challenges and Opportunities Building Open LLMs
+    - Challenges and Opportunities of Building Open LLMs
   readings:
     - What Language Model to Train if You Have One Million GPU Hours (2022) <a href="https://arxiv.org/abs/2210.15424" target="_blank">[link]</a>
     - Dolma- Trillion Token Open Corpus for Language Model Pretraining (2023) <a href="https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64">[link]</a>
@@ -199,6 +204,11 @@
 - date: Tue 10/17/23
   title:
     - Guest lecture by <a href="https://scholar.google.com/citations?hl=en&user=_8mkIjgAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Tushar Khot</a> <br/>Reasoning with (De)Composition
+  guest:
+    - name: Tushar Khot
+      photo: https://images.ctfassets.net/wf5t1ptx352c/4vu1PjzasU284W4KU2wwIO/b8fcb0c9aadbbb098c119b9c5a83ced8/Tushar-Khot.jpg
+      profile: https://scholar.google.com/citations?hl=en&user=_8mkIjgAAAAJ&view_op=list_works&sortby=pubdate
+      affil: Allen Institute for AI
   readings:
     - Hey AI, Can You Solve Complex Tasks by Talking to Agents? <a href="https://arxiv.org/pdf/2110.08542.pdf" target="_blank">[link]</a>
     - Toolformer - A Tool-Augmented Language Model (2022) <a href="https://arxiv.org/pdf/2302.04761.pdf" traget="_blank">[link]</a>
@@ -240,16 +250,28 @@
 
 - date: Tue 10/31/23
   lecturer: Arman
-  title: Guest lecture by <a href="https://shmsw25.github.io" target="_blank">Sewon Min</a> <br/>Retrieval augmented language models
+  guest:
+    - name: Sewon Min
+      photo: https://shmsw25.github.io/assets/sewon.jpg
+      profile: https://shmsw25.github.io
+      affil: University of Washington
+  title: Retrieval augmented language models
+  photo: https://shmsw25.github.io/assets/sewon.jpg
   readings:
     - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2020) <a href="https://arxiv.org/pdf/2005.11401.pdf" traget="_blank">[link]</a>
     - Improving language models by retrieving from trillions of tokens (2021) <a href="https://arxiv.org/pdf/2112.04426.pdf" traget="_blank">[link]</a>
     - REPLUG, Retrieval-Augmented Black-Box Language Models <a href="https://arxiv.org/pdf/2301.12652.pdf" target="_blank">[link]</a>
+  slides:
+    - ../assets/lectures/f23/lecture16_Sewon-Min-Retrieval-based-LMs.pdf
 
 - date: Tue 11/02/23
-  lecturer: Arman
+  guest:
+    - name: Colin Raffel
+      photo: https://colinraffel.com/images/me.jpg
+      profile: https://colinraffel.com/
+      affil: University of Toronto
   title:
-    - Guest lecture by <a href="https://colinraffel.com/" target="_blank">Colin Raffel</a><br/> Build an Ecosystem, Not a Monolith<br/>
+    - Build an Ecosystem, Not a Monolith
   readings:
     - Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning (2022) <a href="https://arxiv.org/pdf/2205.05638.pdf" traget="_blank">[link]</a>
     - Exploring and Predicting Transferability across NLP Tasks (2020) <a href="https://aclanthology.org/2020.emnlp-main.635.pdf" traget="_blank">[link]</a>
@@ -330,7 +352,12 @@
     - Final project presentations -- session 1
 
 - date: Thu 11/30/23
-  title: Guest lecture by <a href="https://neilhoulsby.github.io/" target="_blank">Neil Houlsby</a> <br/> Towards Large Foundation Vision Models
+  title: Towards Large Foundation Vision Models
+  guest:
+    - name: Neil Houlsby
+      profile: https://neilhoulsby.github.io/
+      photo: https://neilhoulsby.github.io/images/queyras2.jpg
+      affil: Google Deepmind
   readings:
     - Scaling Vision Transformers to 22 Billion Parameters (2023) <a href="https://arxiv.org/abs/2302.05442" traget="_blank">[link]</a>
     - From Sparse to Soft Mixtures of Experts (2023) <a href="https://arxiv.org/pdf/2308.00951.pdf" traget="_blank">[link]</a>
