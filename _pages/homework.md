@@ -4,7 +4,27 @@ permalink: /homework/
 title: Homework Assignments
 ---
 
-<h1>Homework 2</h1>
+<h2>Homework 3</h2>
+
+The homework has two parts.
+
+<h3> Part 1: Concepts component - Handout </h3>
+This part is about sparse and efficient transformers as well as a *new* hardware efficiency method called Prompt Cache.  
+Download the homework handout from the following link: [[Download]](https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ESeVBc0QNfFCr_WDJjnXLaQBPPjTpOrJNL9lUtLM-XQOww?e=Ff3JYl)
+
+Complete the handout in latex and submit to Gradescope.
+
+<h3> Part 2: Hands-on excercise: Implementing a Diffusion Model </h3>
+
+The second part is implementation of a `Diffusion Model` and specifically the `Denoising Diffusion Probabilistic Models`.   
+A Colab notebook is provided to guide you through the process of implementing the DDPM model from scratch and training it on a toy data sample.  
+Please see the instructions and the notebook here: [Colab](https://colab.research.google.com/drive/1jalPxY2Q3NUzrOPY-12QRyAHt14ZSg4m?usp=sharing).  
+
+Follow the notebook, complete the exercises, and download your final `.ipynb` file and submit it through Gradescope.
+
+---
+
+<h2>Homework 2</h2>
 
 The homework has two parts.
 
@@ -25,7 +45,7 @@ The detailed instructions for completing each homework is in the corresponding `
 
 ---
 
-<h1>Homework 1</h1>
+<h2>Homework 1</h2>
 
 This homework has two parts. One hand out and one coding section.  
 Download the homework from the following link: [[Download]](https://yaleedu-my.sharepoint.com/:f:/g/personal/arman_cohan_yale_edu/EqPjfvJErIRAoxY17U94Nr0BOCFBE18f4JXkGXWMwE9Khg?e=q09aE5)
