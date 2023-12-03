@@ -383,7 +383,12 @@
   title:
     - Foundation Models for Code and Math
   readings:
+    - Evaluating Large Language Models Trained on Code (2021) <a href="https://arxiv.org/abs/2107.03374" traget="_blank">[link]</a>
+    - Solving Quantitative Reasoning Problems with Language Models (2022) <a href="https://arxiv.org/abs/2206.14858" traget="_blank">[link]</a>
     - StarCoder- May the source be with you! (2023) <a href="https://arxiv.org/pdf/2305.06161.pdf" traget="_blank">[link]</a>
+  optional:
+    - Program Synthesis with Large Language Models (2021) <a href="https://arxiv.org/abs/2108.07732" traget="_blank">[link]</a>
+    - Show Your Work- Scratchpads for Intermediate Computation with Language Models (2021) <a href="https://arxiv.org/abs/2112.00114" traget="_blank">[link]</a>
 
 - date: Thu 12/07/23
   lecturer: Arman
