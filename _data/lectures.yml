@@ -15,7 +15,7 @@
     - Arman
   title:
     - Optimization, backpropagation, and training
-  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EY-tqM8VeRxGpNbdiyWnb0oBGcMZhix4In9a29nPdZpU4Q?e=1lDpDQ
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EY-tqM8VeRxGpNbdiyWnb0oBg5Kk7ISzAR7O_4fbjV6xrw?e=hRLARH
   # slides2:
   logistics:
   readings:
@@ -35,7 +35,7 @@
     - GloVe- Global Vectors for Word Representation (2014) <a href="https://nlp.stanford.edu/pubs/glove.pdf" target="_blank">[link]</a>
     - BPE - Neural Machine Translation of Rare Words with Subword Units (2016) <a href="https://arxiv.org/pdf/1508.07909.pdf" target="_blank">[link]</a>
     - SentencePiece- A simple and language independent subword tokenizer and detokenizer for Neural Text Processing (2018) <a href="https://arxiv.org/pdf/1808.06226.pdf" target="_blank">[link]</a>
-  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EeUZYaR-GFRHldOt3Ss9hv8BsxW6SVuZC5zs-oG79eq1cQ?e=d6JVXL
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EeUZYaR-GFRHldOt3Ss9hv8BVqHlNTvbrPpkjWifKmwKtQ?e=Zu2Wni
   logistics:
 
 - date: Tue 09/12/23
@@ -47,7 +47,7 @@
   readings:
     - Attention is all you need (2017) <a href="https://arxiv.org/abs/1706.03762" target="_blank">[link]</a>
     - The Annotated Transformer <a href="https://nlp.seas.harvard.edu/2018/04/03/attention.html" target="_blank">[link]</a>
-  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/Ec_DoGtFQNhBl61i8JEbEK4BVIY3tmfiAfXyVJtj1IVePA?e=JesZaahttps://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/Ec_DoGtFQNhBl61i8JEbEK4BVIY3tmfiAfXyVJtj1IVePA?e=8N74Ox
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/Ec_DoGtFQNhBl61i8JEbEK4B8EQ4KKwBoeK9h2wNhc9wWg?e=b918JK
   notebook: https://yaleedu-my.sharepoint.com/:u:/g/personal/arman_cohan_yale_edu/EdTKIVshcrZOn4tplykREL8BFdWdMatrJfUovcclalIY5Q?e=dXkuVT
   notebook_title: notebook transformer.ipynb
 
@@ -70,7 +70,7 @@
     - Train Short, Test Long- Attention with Linear Biases Enables Input Length Extrapolation <a href="https://arxiv.org/abs/2108.12409" target="_blank">[link]</a>
     - RoFormer- Enhanced Transformer with Rotary Position Embedding <a href="https://arxiv.org/pdf/2104.09864.pdf" target="_blank">[link]</a>
     - Fast Transformer Decoding- One Write-Head is All You Need <a href="https://arxiv.org/pdf/1911.02150.pdf">[link]</a>
-  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EQZlgr48VPRPo6fG7QUtYjABmxvnsCVxp-tO-RFmdhnQlQ?e=fkZVHV
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EQZlgr48VPRPo6fG7QUtYjABkGYr7VLV4EIPu2fR4Pc-yQ?e=gBDQdY
   logistics: Tips on choosing a project <a href="https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/Ea6n3iOmH01AltSbPq7TbmcBNYwAn66Ww6k5VQWYwxyqVg?e=sqfkct" target="_blank">[slides]</a> <br/><br/> HW1 out <a href="../homework">[link]</a>
 
 - date: Th 09/19/23
@@ -85,7 +85,7 @@
     - ELECTRA, Pre-training Text Encoders as Discriminators Rather Than Generators <a href="https://arxiv.org/abs/2003.10555">[link]</a>
   logistics:
     - Project teams due. <a href="https://forms.gle/Ce37NzChwvbX2N5Y6">[Team submission form]</a>
-  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EWx4O3lqO-VDnJXLrkneCZEBuMtgyQXBnx2XZM_VxkScGw?e=G8TVhy
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EWx4O3lqO-VDnJXLrkneCZEBnF3VksII4UOqz5AU6jultQ?e=LyShMP
 
 - date: Th 09/21/23
   lecturer:
@@ -99,7 +99,7 @@
     - UL2- Unifying Language Learning Paradigms (2022) <a href="https://arxiv.org/pdf/2205.05131.pdf">[link]</a>
     - What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization? (2022) <a href="https://arxiv.org/pdf/2204.05832.pdf">[link]</a>
     - BART, Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension <a href="https://arxiv.org/pdf/1910.13461.pdf">[link]</a>
-  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EavoTgCLvGZHs_0OrtmN02kBd4AgYB4Zscl0dDYjqpVPig?e=DVB2Ya
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EavoTgCLvGZHs_0OrtmN02kBxavxKwjQxQofnCSe_-j4uw?e=INpX7x
 
 - date: Tue 09/26/23
   lecturer:
@@ -110,7 +110,7 @@
   readings:
     - Scaling Laws for Neural Language Models <a href="https://arxiv.org/pdf/2001.08361.pdf" target="_blank">[link]</a>
     - Training Compute-Optimal Large Language Models <a href="https://arxiv.org/pdf/2203.15556.pdf" target="_blank">[link]</a>
-  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EXP9qJsgBGhAvy_LKPWIVasBsjYRNHgKJZiNerr2wO53uw?e=adHCTA
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EXP9qJsgBGhAvy_LKPWIVasBg10M8Vww8ZreTvElUOH39w?e=O58crV
 
 - date: Thu 09/28/23
   lecturer:
@@ -124,7 +124,7 @@
     - Language Models are Few-shot Learners (2020) <a href="https://arxiv.org/pdf/2005.14165.pdf" target="_blank">[link]</a>
     - Rethinking the Role of Demonstrations- What Makes In-Context Learning Work? (2022) <a href="https://arxiv.org/pdf/2202.12837.pdf" target="_blank">[link]</a>
     - Data Distributional Properties Drive Emergent In-Context Learning in Transformers (2022) <a href="https://arxiv.org/pdf/2205.05055.pdf" target="_blank">[link]</a>
-  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ESXwoPihzA5Hvd2cygP3y8QBYkp9-Pr3QpbFTakRX7NWGQ?e=IQtlCj
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ESXwoPihzA5Hvd2cygP3y8QBnlfwAUalaJjc_vMS0hTlcA?e=BcBbio
 
 - date: Tue 10/03/23
   lecturer:
@@ -144,7 +144,7 @@
     - Scaling Instruction-Finetuned Language Models (2022) <a href="https://arxiv.org/pdf/2210.11416.pdf" traget="_blank">[link]</a>
     - Tree of Thoughts- Deliberate Problem Solving with Large Language Models (2023) <a href="https://arxiv.org/pdf/2305.10601.pdf" target="_blank">[link]</a>
   slides:
-    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EeI7YmvoBDJBpi4FJs7rAG8BrfBEHTUeK2TejBgEittzZA?e=kevMY6
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EeI7YmvoBDJBpi4FJs7rAG8BgfMK1V0CwItgCLbVb2E9Sg?e=y8z2QH
 
 - date: Thu 10/05/23
   lecturer:
@@ -162,7 +162,7 @@
     - Parameter-Efficient Transfer Learning for NLP (2019) <a href="https://arxiv.org/pdf/1902.00751.pdf" traget="_blank">[link]</a>
     - Prefix-Tuning- Optimizing Continuous Prompts for Generation (2021) <a href="https://arxiv.org/pdf/2101.00190.pdf" traget="_blank">[link]</a>
   slides:
-    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EfTPv_14JI9BmzaB5e5hAjMBqLPVtAWlnZ7Dy3Lemz3Ddw?e=aAYV7d
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EfTPv_14JI9BmzaB5e5hAjMBVhFQ1ayZljBgPvVp-MYXtQ?e=EZs7II
   logistics:
     - HW 1 due (10/8)
 
@@ -184,7 +184,7 @@
     - BLOOM- A 176B-Parameter Open-Access Multilingual Language Model (2022) <a href="https://arxiv.org/abs/2211.05100">[link]</a>
     - Scaling Language Models- Methods, Analysis & Insights from Training Gopher (2022) <a href="https://arxiv.org/pdf/2304.01373.pdf">[link]</a>
   slides:
-    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EdAJQ2LSMuRNi2UMJqU4ra4BwaPuYeMbKMIDvOUu1OGe3A?e=FPwtVG
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EdAJQ2LSMuRNi2UMJqU4ra4BvpVrT8-ElC0OEec7eE0bYw?e=jPc835
 
 - date: Thu 10/12/23
   lecturer:
@@ -199,7 +199,7 @@
     - Scaling Down to Scale Up- A Guide to Parameter-Efficient Fine-Tuning <a href="https://arxiv.org/pdf/2303.15647.pdf" target="_blank">[link]</a>
     - Efficient Transformers- A Survey <a href="https://arxiv.org/pdf/2009.06732.pdf" target="_blank">[link] </a>
   slides:
-    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EQS1IpFyWd1Euwn1lgnKvzMBfpxYRx9v-qKyhxoPO7XNxA?e=xymAgs
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EQS1IpFyWd1Euwn1lgnKvzMBix3HwLFtP9VkARim9fo_lA?e=cfesyC
 
 - date: Tue 10/17/23
   title:
@@ -217,7 +217,7 @@
   logistics:
     - 10/20 Project proposal due
   slides:
-    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EYLz-BlXdiBFmQcDPkFQO9MB6mVQYssYbfOcGvf0PSAkHA?e=vzkVNy
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EYLz-BlXdiBFmQcDPkFQO9MBwZa0Vy8KrC-y8-unOfiJbw?e=SFoKw5
 
 - date: 10/17/23 - 10/23/23
   lecturer:
@@ -240,7 +240,7 @@
     - Switch Transformers- Scaling to Trillion Parameter Models (2021) <a href="https://arxiv.org/pdf/2101.03961.pdf" traget="_blank">[link]</a>
     # - Sparse Upcycling- Training Mixture-of-Experts from Dense Checkpoints (2022) <a href="https://arxiv.org/pdf/2212.05055.pdf" traget="_blank">[link]</a>
   slides:
-    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EV-e97WtemZAuD_TDT-02zoBxh3GYqsJpNm-tSAWa62NJw?e=kz7dCF
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EV-e97WtemZAuD_TDT-02zoBfzvlv59y0bjLkgb55jfwDw?e=9DEvyg
 
 - date: Thu 10/26/23
   lecturer:
@@ -291,7 +291,7 @@
     - Compressive Transformers for Long-Range Sequence Modelling (2020) <a href="https://arxiv.org/pdf/1911.05507.pdf" traget="_blank">[link]</a>
     - Efficient transformers - A survey (2022) <a href="https://arxiv.org/pdf/2009.06732.pdf" traget="_blank">[link]</a>
   slides:
-    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EWukrTCiFJtJnwXhsnX8rrYBnsj9zpCyZe01rbnCw6VAPw?e=IR7Dgy
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EWukrTCiFJtJnwXhsnX8rrYBuIgUX9cfkeGTwLgiShO47g?e=Jq2oGh
   logistics:
     - HW 2 due
 
@@ -308,7 +308,7 @@
     - Reformer - The Efficient Transformer (2020) <a href="https://arxiv.org/pdf/2001.04451.pdf" traget="_blank">[link]</a>
     - Long T5 - Efficient Text-To-Text Transformer for Long Sequences (2022) <a href="https://arxiv.org/pdf/2103.06336.pdf" traget="_blank">[link]</a>
   slides:
-    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EZ3tj2FqiwRInttI48LAjFcB2HANqtH8-ANEi-MSYYIivw?e=2e6INr
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EZ3tj2FqiwRInttI48LAjFcB_I_OIUPqMb_7QsZ3JnPQHw?e=CRQ9RW
 
 - date: Tue 11/14/23
   lecturer: Arman
@@ -326,7 +326,7 @@
     # - SwAV- Unsupervised Learning of Visual Features by Contrasting Cluster Assignments (2021) <a href="https://arxiv.org/pdf/2006.09882.pdf" traget="_blank">[link]</a>
     # - MoCo - Momentum Contrast for Unsupervised Visual Representation Learning (2020) <a href="https://arxiv.org/pdf/1911.05722.pdf" traget="_blank">[link]</a>
   slides:
-    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EWZkzgAAE-lBpqKGChEmBggBzVgVl-PnLdfvY92yNQXkaA?e=cohxvZ
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EWZkzgAAE-lBpqKGChEmBggB28VnJ2BP5f8Ylj_AgtcMqw?e=zAZnef
 
 - date: Tue 11/16/23
   lecturer: Arman
@@ -338,7 +338,7 @@
     - Training data-efficient image transformers & distillation through attention (2021) <a href="https://arxiv.org/pdf/2012.12877.pdf" traget="_blank">[link]</a>
     - Denoising Diffusion Probabilistic Models (2020) <a href="https://arxiv.org/pdf/2006.11239.pdf" traget="_blank">[link]</a>
   slides:
-    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EVgnE98sFpVHi6rZPaXJhNIBSzcM94Jy9wH4J7LjfKw0og?e=M6orYB
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EVgnE98sFpVHi6rZPaXJhNIBkuPqAlR601y7P877v53bBw?e=cGCXOK
 
 - date: 11/17/23 - 11/26/23
   lecturer:
@@ -362,6 +362,8 @@
     - Scaling Vision Transformers to 22 Billion Parameters (2023) <a href="https://arxiv.org/abs/2302.05442" traget="_blank">[link]</a>
     - From Sparse to Soft Mixtures of Experts (2023) <a href="https://arxiv.org/pdf/2308.00951.pdf" traget="_blank">[link]</a>
     - Scaling Vision Transformers (2021) <a href="https://arxiv.org/abs/2106.04560" traget="_blank">[link]</a>
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EdFKcNw1OJVGhZGN9lWBjk8BM1DIGfZT70_MCoCp5MlGnQ?e=Sg9lC4
   optional:
     - PaLI-X- On Scaling up a Multilingual Vision and Language Model <a href="https://arxiv.org/pdf/2305.18565.pdf" traget="_blank">[link]</a>
     - PaLI- A Jointly-Scaled Multilingual Language-Image Model <a href="https://arxiv.org/abs/2209.06794" traget="_blank">[link]</a>
