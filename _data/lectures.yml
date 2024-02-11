@@ -276,6 +276,8 @@
     - Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning (2022) <a href="https://arxiv.org/pdf/2205.05638.pdf" traget="_blank">[link]</a>
     - Exploring and Predicting Transferability across NLP Tasks (2020) <a href="https://aclanthology.org/2020.emnlp-main.635.pdf" traget="_blank">[link]</a>
     - Editing Models with Task Arithmetic (2022) <a href="https://arxiv.org/pdf/2212.04089.pdf" traget="_blank">[link]</a>
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EYzyUzd0_F1AnoA1Q8iSGdIBP5ewN3vgefU6HUyxSSMstQ?e=gxxbEL
 
 - date: Tue 11/07/23
   lecturer: Arman
